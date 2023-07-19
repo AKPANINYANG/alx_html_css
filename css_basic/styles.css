@@ -1,0 +1,72 @@
+
+/* Flexbox */
+body, main {
+    display: flex;
+}
+
+/* Body */
+body {
+    flex-direction: column;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+/* Anchor */
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Logo */
+.logo {
+    font-size: 24px;
+}
+
+/* Main Content */
+main {
+    flex-direction: row;
+    flex: auto;
+}
+
+/* Article */
+article {
+    flex: 2;
+}
+
+/* Aside */
+aside {
+    flex: 1;
+}
+
+/* Article and Aside Together */
+article, aside {
+    overflow-y: auto;
+}
+
+/* Table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Table Footer */
+tfoot {
+    font-weight: bold;
+}
+
+/* Anchor Hover */
+a:hover {
+    color: #ff0000;
+}
