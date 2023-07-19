@@ -1,5 +1,4 @@
-# ALX Introduction to Software Engineering (ALX-iSWE)
-
+# ALX-iSWE HTML, CSS and Flexbox Projects
 
 This repository showcases the work I have done during my time at ALX while undergoing the program "Introduction to Software Engineering" (ALX-iSWE). The focus of this work is on HTML, CSS, and Flexbox, and it includes various projects and exercises related to these technologies.
 
@@ -31,23 +30,23 @@ The repository is organized into the following folders:
 
 ## CSS Advanced
 
-The `css_advanced` folder contains more complex CSS projects, where I explored advanced styling techniques, such as animations, transitions, and transformations. Each project has its own subfolder, and the code is well-documented for easy understanding.
+The `css_advanced` folder contains more complex CSS projects, where I explored advanced styling techniques. The code is well-documented for easy understanding.
 
 ## CSS Basic
 
-In the `css_basic` folder, you'll find projects and exercises that cover foundational CSS concepts, like selectors, box model, positioning, and more.
+In the `css_basic` folder, you'll find projects and exercises that cover foundational CSS concepts.
 
 ## Flexbox
 
-The `flexbox` folder showcases my work on various projects where I utilized Flexbox to create flexible and responsive layouts for different web pages.
+The `flexbox` folder showcases my work on a project where I utilized Flexbox to create flexible and responsive layouts for web pages.
 
 ## HTML Advanced
 
-Inside the `html_advanced` folder, I worked on projects that involve advanced HTML structures, semantic elements, multimedia embedding, and other related topics.
+Inside the `html_advanced` folder, I worked on projects that involve advanced HTML structures, and other related topics.
 
 ## HTML Basic
 
-The `html_basic` folder contains projects and exercises that cover the fundamentals of HTML, including tags, attributes, forms, and basic page structure.
+The `html_basic` folder contains projects and exercises that cover the fundamentals of HTML, and basic page structure.
 
 ## Usage
 
