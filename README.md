@@ -1,6 +1,5 @@
 # ALX Introduction to Software Engineering (ALX-iSWE)
 
-![ALX Logo](https://example.com/alx_logo.png) *(Replace with your ALX logo or leave it out)*
 
 This repository showcases the work I have done during my time at ALX while undergoing the program "Introduction to Software Engineering" (ALX-iSWE). The focus of this work is on HTML, CSS, and Flexbox, and it includes various projects and exercises related to these technologies.
 
