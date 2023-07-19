@@ -1,4 +1,4 @@
-This repository contains the code for a basic website showcasing a homepage and a tweets page. The project is built using HTML and demonstrates navigation between different pages.
+This folder contains the code for a basic website showcasing a homepage and a tweets page. The project is built using HTML and demonstrates navigation between different pages.
 
 ## File Structure
 
